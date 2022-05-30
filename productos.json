@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "Armchair",
+        "category" : "Chair",
+        "price" : "50.25",
+        "imgSrc" : "img/armchair.png"
+    },
+    {
+        "name" : "Madera",
+        "category" : "Chair",
+        "price" : "100.25",
+        "imgSrc" : "img/popular2.png"
+    },
+    {
+        "name" : "Mesa de Luz",
+        "category" : "table",
+        "price" : "30.25",
+        "imgSrc" : "img/products3.png"
+    },
+    {
+        "name" : "Mesa Ratona",
+        "category" : "table",
+        "price" : "90.25",
+        "imgSrc" : "img/products4.png"
+    },
+    {
+        "name" : "Mesa Moderna ",
+        "category" : "table",
+        "price" : "40.00",
+        "imgSrc" : "img/products5.png"
+    },
+    {
+        "name" : "Rojo",
+        "category" : "Chair",
+        "price" : "200.50",
+        "imgSrc" : "img/products6.png"
+    },
+    {
+        "name" : "Banqueta",
+        "category" : "Chair",
+        "price" : "50.25",
+        "imgSrc" : "img/products7.png"
+    },
+    {
+        "name" : "Banqueta Diseño",
+        "category" : "Chair",
+        "price" : "100.50",
+        "imgSrc" : "img/products8.png"
+    }
+]
